@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# EqelaAct3
+#
+
+projectname: EqelaAct3
+vendorid: com.mycompany
+mainmodule: com.mycompany.eqelaact3
